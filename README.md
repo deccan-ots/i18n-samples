@@ -1,2 +1,3 @@
-# indic-language-samples
-SFT, RLHF, Safety&amp;Alignment &amp; Reasoning Samples across a range of Indic Languages
+# i18n-samples
+SFT, RLHF, &amp; Reasoning, &amp; Audio Samples across a range of Indic and Global Languages Languages
+
